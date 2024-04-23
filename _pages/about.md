@@ -67,8 +67,8 @@ My research interest includes machine learning with spiking neural networks and 
 - *2019.09 - 2020.05*, Research Assistant, Peking University, China.
 
 # 👣 Album
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Beijing</div><img src='album/202304-1.jpg' height = "100" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Beijing</div><img src='album/202304-1.jpg' height = "50" alt="sym"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-1.PNG' height = "100" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-1.PNG' height = "50" alt="sym"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-2.jpg' height = "100" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-2.jpg' height = "50" alt="sym"></div></div>
