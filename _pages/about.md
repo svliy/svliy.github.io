@@ -25,8 +25,10 @@ My research interest includes machine learning with spiking neural networks and 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07*：&nbsp;🎉🎉 Happy to be granted Academic New Star in 2023 IJCAI Young Elite Symposium.
+- *2023.04*：&nbsp;🎉🎉 Happy to be granted Outstanding Oral Presentation Award in the 5th Academic Forum on Artificial Intelligence of Beijing Univerisities.
+- *2023.02*: &nbsp;🎉🎉 Happy to participant in the project of SpikeCV and received Excellent developer in the Openi open source community.
+- *2022.02*: &nbsp;🎉🎉 Happy to participant in the project of SpikingJelly and received Excellent developer in the Openi open source community.
 
 # 📝 Publications 
 
@@ -45,16 +47,21 @@ My research interest includes machine learning with spiking neural networks and 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02* 🎉Excellent developer in Openi open source community.
+- *2023.02* 🎉Excellent developer in Openi open source community.
+- *2023.04* 🎉Outstanding Oral Presentation Award. The 5th Academic Forum on Artificial Intelligence of Beijing Univerisities.
+- *2023.07* 🎉Academic New Star. 2023 IJCAI Youth Elite Academic Conference.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Now*, Ph.D. program. School of Computer Science, Peking University, Beijing.
+- *2016.09 - 2020.06*, Undergraduate program. Schoel of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.12*, Is end-to-end backpropagation a double-edged sword for spiking neural networks? The 2nd New Year Interdisciplinary Forum on Neural Networks.  \| [\[video\]](https://www.koushare.com/live/details/14791) (Online)
+- *2023.02*, End-to-end Training of Spiking Neural Networks: A Mixed Blessing. University of Leeds. (Online)
+- *2023.04*, Robustness-enhanced Spiking Neural Network thourgh Regularized Adversarial Training. The 5th Academic Forum on Artificial Intelligence of Beijing Univerisities.  \| [\[video\]](https://www.koushare.com/live/details/16654) (Online)
+- *2023.06*, Optimal Conversion from Deep Artificial Neural Network to Spiking Neural Network. 2023 IJCAI Young Elite Symposium. Shanghai. (Offline)
+- *2023.10*, Framework for the Adversarial Robustness of Spiking Neural Networks. Mohamed Bin Zayed University of Artificial Intelligence. (Offline)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.09 - 2020.05*, Research Assistant, Peking University, China.
