@@ -32,7 +32,7 @@ My research interest includes machine learning with spiking neural networks and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,7 +44,7 @@ My research interest includes machine learning with spiking neural networks and 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2022.02* 🎉Excellent developer in Openi open source community.
@@ -67,8 +67,8 @@ My research interest includes machine learning with spiking neural networks and 
 - *2019.09 - 2020.05*, Research Assistant, Peking University, China.
 
 # 👣 Album
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Beijing</div><img src='album/202304-1.jpg' height = "200" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Beijing</div><img src='album/202304-1.jpg' height = "100" alt="sym"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-1.PNG' height = "200" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-1.PNG' height = "100" alt="sym"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-2.jpg' height = "200" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-2.jpg' height = "100" alt="sym"></div></div>
