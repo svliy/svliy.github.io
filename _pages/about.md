@@ -69,6 +69,6 @@ My research interest includes machine learning with spiking neural networks and 
 # 👣 Album
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Beijing</div><img src='album/202304-1.jpg' height = "200" alt="sym"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-1.png' height = "200" alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-1.PNG' height = "200" alt="sym"></div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 In Shanghai</div><img src='album/202306-2.jpg' height = "200" alt="sym"></div></div>
