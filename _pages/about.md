@@ -60,8 +60,12 @@ My research interest includes machine learning with spiking neural networks and 
 - *2022.12*, Is end-to-end backpropagation a double-edged sword for spiking neural networks? The 2nd New Year Interdisciplinary Forum on Neural Networks.  \| [\[video\]](https://www.koushare.com/live/details/14791) (Online)
 - *2023.02*, End-to-end Training of Spiking Neural Networks: A Mixed Blessing. University of Leeds. (Online)
 - *2023.04*, Robustness-enhanced Spiking Neural Network thourgh Regularized Adversarial Training. The 5th Academic Forum on Artificial Intelligence of Beijing Univerisities.  \| [\[video\]](https://www.koushare.com/live/details/16654) (Online)
-- *2023.06*, Optimal Conversion from Deep Artificial Neural Network to Spiking Neural Network. 2023 IJCAI Young Elite Symposium. Shanghai. (Offline)
+- *2023.07*, Optimal Conversion from Deep Artificial Neural Network to Spiking Neural Network. 2023 IJCAI Young Elite Symposium. Shanghai. (Offline)
 - *2023.10*, Framework for the Adversarial Robustness of Spiking Neural Networks. Mohamed Bin Zayed University of Artificial Intelligence. (Offline)
 
 # 💻 Internships
 - *2019.09 - 2020.05*, Research Assistant, Peking University, China.
+
+# Album
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' width = "300" height = "200" alt="sym"></div></div>
