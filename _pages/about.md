@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate at Peking University, expected to graduate in 2025. My research focuses on spike-based artificial intelligence and spiking neural networks. My mission is to empower spike-based AI and promote the field of artificial intelligence towards a sustainable development path. If you're interested in my work or have any questions, feel free to reach out to me at **djh01998@stu.pku.edu.cn**.
 
-My research interest includes machine learning with spiking neural networks and neuromorphic hardware. I have published more than 10 papers at the top international AI conferences (NeurIPS, ICLR, CVPR, AAAI, IJCAI, etc.) with total <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'>google scholar citations <strong><span id='total_cit'>580+</span></strong></a>.
+My research interest includes machine learning with spiking neural networks and neuromorphic hardware. I have published more than 10 papers at the top international AI conferences (NeurIPS, ICLR, CVPR, AAAI, IJCAI, etc.) with total <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'>google scholar citations <strong><span id='total_cit'>660+</span></strong></a>. I also serve as reviewers for AI conferences (NeurIPS, ICLR, ACMMM, IJCAI, CVPR, ICCV, ECCV) and journals (TPAMI, TNNLS).
 
 <!-- with total <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4rDfCSsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
